@@ -1,4 +1,4 @@
-```markdown
+
 # 👁️‍🗨️ SentinelMuse: Real-Time Focus Guardian
 
 SentinelMuse is not just a productivity app — it’s your digital muse with a purpose. It keeps watch over your screen using visual-language AI, understands your defined task goals, and helps you avoid slipping into distraction without relying on rigid blockers.
@@ -32,7 +32,7 @@ It's smart enough to know that watching a lecture counts — but bingeing old ep
 > **Supported on macOS. Windows support coming via the `win-port` branch.**
 
 ```bash
-git clone https://github.com/yourusername/sentinelmuse.git
+git clone https://github.com/CEORocks/sentinelmuse.git
 cd sentinelmuse
 python -m venv museenv
 source museenv/bin/activate
@@ -109,7 +109,7 @@ If ignored, it repeats until behavior realigns or session is paused.
 
 ## 👥 Contributors
 
-- [@yourusername](https://github.com/yourusername) — Creator & Lead Engineer  
+- [@yourusername](https://github.com/CEORocks) — Creator & Lead Engineer  
 - [@collab-dev](https://github.com/collab-dev) — UX & TTS Integration  
 
 ## 📜 License
@@ -126,5 +126,5 @@ Read our deep-dive:
 ---
 
 **Muse mode on. Distraction off. You’ve got this.**
-```
+
 
